@@ -10,3 +10,8 @@
 saiteja5656/saiteja5656 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+git status
+git add .
+git commit -m "message"
+git pull origin main
+git push origin main
